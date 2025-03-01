@@ -1,3 +1,5 @@
+import { Text } from "@radix-ui/themes";
+
 export default function () {
-	return <p>Hello, world!</p>;
+	return <Text>Hello, world!</Text>;
 }
