@@ -18,7 +18,7 @@
 		"pnpm": ">=10"
 	},
 	"prettier": {
-		"endOfLine": "auto",
+		"endOfLine": "crlf",
 		"useTabs": true
 	},
 	"private": true,
